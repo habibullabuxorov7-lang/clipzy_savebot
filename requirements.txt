@@ -1,4 +1,4 @@
 aiogram==3.4.1
 yt-dlp==2024.12.23
-aiosqlite==3.0.5
+aiosqlite==0.20.0
 python-dotenv==1.0.0
